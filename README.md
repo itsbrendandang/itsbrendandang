@@ -1,10 +1,5 @@
 # Hi, I'm Brendan
 
-I'm @itsbrendandang, a founder learning software engineering and building at the intersection of **AI × Bio**.
----
-
-### exp
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
