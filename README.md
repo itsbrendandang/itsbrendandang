@@ -13,5 +13,3 @@ ex-founder and generalist. i fell in love with research, and now i'm focused on 
 - 🔌 [**wirelogic**](https://github.com/itsbrendandang/wirelogic): differentiable logic gate networks
 - 📈 [**deeptech-scorer**](https://github.com/itsbrendandang/deeptech-scorer) + [**vcscore**](https://github.com/itsbrendandang/vcscore): vc tooling. score deep tech companies on a transparent rubric, and track how firms behave when things get hard
 - 🎙️ [**voicelab**](https://github.com/itsbrendandang/voicelab): a voice agent for research labs
-
-<sub>yes, kalos is named after the pokémon region. no, i will not be taking questions.</sub>
