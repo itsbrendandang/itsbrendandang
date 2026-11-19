@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&vCenter=true&width=600&lines=hey%2C+i'm+brendan;ex-founder;generalist;building+applied+ai" alt="hey, i'm brendan" />
 </a>
 
-ex-founder and generalist. i fell in love with research, and now i'm focused on applied ai: taking ideas out of papers and turning them into things people can use. mostly building for fun.
+i fell in love with research, and now i'm focused on applied ai: taking ideas out of papers and turning them into things people can use. mostly building for fun.
 
 🌐 [brendandang.com](https://brendandang.com)
 
